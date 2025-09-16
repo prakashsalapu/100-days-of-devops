@@ -4,12 +4,14 @@ Welcome to my **100 Days of DevOps** journey!
 This repository documents everything I learn each day as I work towards becoming a **DevOps Engineer** and mastering industry-relevant skills.
 
 
+
 ## 📌 About This Challenge
 The goal of this challenge is to:
 - Build a **solid foundation in DevOps** concepts.
 - Learn **Linux, Git, CI/CD, Docker, Kubernetes, AWS, Terraform, and more**.
 - Showcase my **daily progress publicly** for consistency and accountability.
 - Create a **portfolio of practical learnings & mini-projects** that recruiters can see.
+
 
 
 
@@ -22,6 +24,7 @@ The goal of this challenge is to:
 | 🟢 **Day 1** | 🚀 **DevOps Fundamentals** | [View Notes →](./01-Intro-to-DevOps/Fundamentals.md) |
 | 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./02-Linux-Fundamentals/Notes.md) |
 | ⏳ **Day 3** | 📦 **Coming Soon...** | _Stay tuned!_ |
+
 
 
 ## 🧑‍💻 Connect With Me  
