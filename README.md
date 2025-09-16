@@ -3,7 +3,7 @@
 Welcome to my **100 Days of DevOps** journey!  
 This repository documents everything I learn each day as I work towards becoming a **DevOps Engineer** and mastering industry-relevant skills.
 
-
+--
 
 ## 📌 About This Challenge
 The goal of this challenge is to:
