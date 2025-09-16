@@ -20,22 +20,9 @@ The goal of this challenge is to:
 
 | Day | 📖 Topic | 🔗 Link |
 |-----|---------|---------|
-| 🟢 **Day 1** | 🚀 **DevOps Fundamentals** | [View Notes →](./Day-01-DevOps-Fundamentals/README.md) |
+| 🟢 **Day 1** | 🚀 **DevOps Fundamentals** | [View Notes →](01-Intro-to-DevOps\Fundamentals.md) |
 | 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./Day-02-Linux-Basics/README.md) |
 | ⏳ **Day 3** | 📦 **Coming Soon...** | _Stay tuned!_ |
-
----
-
-📌 **Legend:**  
-🟢 = Completed | ⏳ = In Progress | 🔥 = Upcoming | 🏆 = Milestone  
-
-
----
-
-## 🎯 Goals
-- **Short-term:** Build strong DevOps fundamentals.
-- **Mid-term:** Create and deploy real-world CI/CD pipelines & projects.
-- **Long-term:** Become job-ready for **DevOps Engineer / SRE roles**.
 
 ---
 
@@ -48,9 +35,8 @@ Each day has its own folder with:
 ---
 
 ## 🧑‍💻 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/prakashsalapu/
+- **LinkedIn:**' https://www.linkedin.com/in/prakashsalapu/ '
 - **GitHub:** You're already here 😉
 
----
 
-🔥 **Follow my journey — I’m documenting every step, every day, for 100 days!**
+🔥 **Follow my journey. I’m documenting every step, every day, for 100 days!**
