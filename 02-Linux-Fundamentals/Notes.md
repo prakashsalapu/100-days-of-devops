@@ -10,13 +10,13 @@ Today, I dived into **Linux Fundamentals** – the backbone of DevOps.
 - ✅ **Core components** – Kernel, Shell, Command-Line Tools
 - ✅ **Linux distributions** – Ubuntu, CentOS, Debian, etc.
 - ✅ **Basic commands**:
-  - `pwd`: Show present working directory  
-  - `whoami`: Display current user  
-  - `ls -l, ls -a, ls -h`: List files with details  
-  - `touch`: Create empty file  
-  - `cat`: View file contents  
-  - `cd`: Change directory  
-  - `chmod`: Change file permissions  
+  - `pwd`- Show present working directory  
+  - `whoami`- Display current user  
+  - `ls -l, ls -a, ls -h`- List files with details  
+  - `touch`- Create empty file  
+  - `cat`- View file contents  
+  - `cd`- Change directory  
+  - `chmod`- Change file permissions  
 
 
 
