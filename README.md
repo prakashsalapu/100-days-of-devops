@@ -3,7 +3,7 @@
 Welcome to my **100 Days of DevOps** journey!  
 This repository documents everything I learn each day as I work towards becoming a **DevOps Engineer** and mastering industry-relevant skills.
 
---
+---
 
 ## 📌 About This Challenge
 The goal of this challenge is to:
@@ -12,8 +12,7 @@ The goal of this challenge is to:
 - Showcase my **daily progress publicly** for consistency and accountability.
 - Create a **portfolio of practical learnings & mini-projects** that recruiters can see.
 
-
-
+---
 
 ## 📅 Daily Progress
 
@@ -25,7 +24,7 @@ The goal of this challenge is to:
 | 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./02-Linux-Fundamentals/Notes.md) |
 | ⏳ **Day 3** | 📦 **Coming Soon...** | _Stay tuned!_ |
 
-
+---
 
 ## 🧑‍💻 Connect With Me  
 
