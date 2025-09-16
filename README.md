@@ -21,7 +21,7 @@ The goal of this challenge is to:
 | Day | 📖 Topic | 🔗 Link |
 |-----|---------|---------|
 | 🟢 **Day 1** | 🚀 **DevOps Fundamentals** | [View Notes →](./01-Intro-to-DevOps/Fundamentals.md) |
-| 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./Day-02-Linux-Basics/README.md) |
+| 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./02-Linux-Fundamentals/Notes.md) |
 | ⏳ **Day 3** | 📦 **Coming Soon...** | _Stay tuned!_ |
 
 ---
