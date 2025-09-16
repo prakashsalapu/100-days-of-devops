@@ -27,13 +27,11 @@ Today, I dived into **Linux Fundamentals** – the backbone of DevOps.
   chmod 600 .config
   ```
 🔑 This secured the file so only I (owner) can read/write it.
-
-  Verified my current location with:
+- Verified my current location with:
   ```bash
   pwd
   ```
- and confirmed my username with:
+- and confirmed my username with:
   ```bash
   whoami
   ```
-  
