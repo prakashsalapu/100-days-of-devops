@@ -3,7 +3,6 @@
 Welcome to my **100 Days of DevOps** journey!  
 This repository documents everything I learn each day as I work towards becoming a **DevOps Engineer** and mastering industry-relevant skills.
 
----
 
 ## 📌 About This Challenge
 The goal of this challenge is to:
@@ -12,7 +11,7 @@ The goal of this challenge is to:
 - Showcase my **daily progress publicly** for consistency and accountability.
 - Create a **portfolio of practical learnings & mini-projects** that recruiters can see.
 
----
+
 
 ## 📅 Daily Progress
 
@@ -24,19 +23,11 @@ The goal of this challenge is to:
 | 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./02-Linux-Fundamentals/Notes.md) |
 | ⏳ **Day 3** | 📦 **Coming Soon...** | _Stay tuned!_ |
 
----
 
-## 📂 Structure
-Each day has its own folder with:
-- `README.md` → Notes & key takeaways.
-- Commands practiced.
-- Mini-tasks or projects done.
+## 🧑‍💻 Connect With Me  
 
----
-
-## 🧑‍💻 Connect With Me
-- **LinkedIn:**' https://www.linkedin.com/in/prakashsalapu/ '
-- **GitHub:** You're already here 😉
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakashsalapu/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prakashsalapu)
 
 
 🔥 **Follow my journey. I’m documenting every step, every day, for 100 days!**
