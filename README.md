@@ -22,7 +22,8 @@ The goal of this challenge is to:
 |-----|---------|---------|
 | 🟢 **Day 1** | 🚀 **DevOps Fundamentals** | [View Notes →](./01-Intro-to-DevOps/Fundamentals.md) |
 | 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./02-Linux-Fundamentals/Notes.md) |
-| ⏳ **Day 3** | 📦 **Coming Soon...** | _Stay tuned!_ |
+| 🟢 **Day 3** | 🐧 **Linux Folder Structure** | [View Notes →](./03-Linux-Folder-Structure/Notes.md) |
+| ⏳ **Day 4** | 📦 **Coming Soon...** | _Stay tuned!_ |
 
 ---
 

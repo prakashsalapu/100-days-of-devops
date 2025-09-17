@@ -14,7 +14,7 @@ Today, I explored **Linux Folder Structure** in depth.
 The root directory `/` is the **top-most folder** in Linux.  
 Everything starts here – all files, folders, devices are connected under `/`.
 
----
+
 
 ### 📂 **Important Folders in Linux**
 
@@ -33,10 +33,10 @@ Everything starts here – all files, folders, devices are connected under `/`.
 | `/proc`     | Virtual filesystem for processes |
 | `/lib`      | Shared libraries required for programs in `/bin` and `/sbin` |
 
----
+
 
 ### 🧠 **Key Takeaways**
-- The root `/` is like **C:\ in Windows** — everything lives here.
+- The root `/` is like **C:\ in Windows** - everything lives here.
 - System commands are stored in `/bin` and `/sbin`.
 - `/etc` is the heart of configuration (be careful when editing files here).
 - `/home` is where user files & configs live (like your Desktop/Documents).
