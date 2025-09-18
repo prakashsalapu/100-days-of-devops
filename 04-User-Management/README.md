@@ -30,5 +30,5 @@
 - **Editing/Append Content:** `echo "text" > file`, `echo "text" >> file`  
 
 ### Key Takeaway
-Understanding Linux fundamentals — users, files, editors, and SSH — is **essential for building a strong DevOps foundation**. Mastery of these basics makes managing servers and automation much easier.
+Understanding Linux fundamentals - users, files, editors, and SSH - is **essential for building a strong DevOps foundation**. Mastery of these basics makes managing servers and automation much easier.
 
