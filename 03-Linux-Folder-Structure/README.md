@@ -48,13 +48,6 @@ Everything starts here – all files, folders, devices are connected under `/`.
 - Open `/etc/passwd` using `cat /etc/passwd` to see user accounts.
 - Try `sudo su -` and check `whoami` (should say `root`).
 
-
-
-## ✅ Day 3 Completed!
-Learning the folder structure makes navigating Linux much easier – it’s like knowing the map before exploring a city.  
-
----
-
 ## 📌 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prakashsalapu/)  
 You're already here on **GitHub** 😉
