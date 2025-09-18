@@ -1,7 +1,7 @@
 # 🐧 Day 2 – Linux Basics
 
 Welcome to **Day 2** of my #100DaysOfDevOps challenge!  
-Today, I dived into **Linux Fundamentals** – the backbone of DevOps.  
+Today, I dived into **Linux Fundamentals** - the backbone of DevOps.  
 
 ## 📚 What I Learned Today
 - ✅ What is **Linux** & its importance in DevOps
