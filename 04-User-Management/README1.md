@@ -1,11 +1,5 @@
 # Day 4 – Linux Deep Dive 🐧🔥
 
-Welcome to **Day 4 of #100DaysOfDevOps Challenge**! 🚀
-Today was a **super productive day** — I spent hours getting hands-on with Linux and exploring real-world concepts that every DevOps engineer must know. 
-
-Let's dive into what I learned 👇
-
-
 ## 🧑‍💻 User Management
 Linux is a multi-user system, so understanding user management is key for security and automation.
 
@@ -136,9 +130,3 @@ vim file.txt        # Open file in vim
 ✅ Learned Vim editor modes & shortcuts
 
 
-## 🧑‍💻 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prakashsalapu/)
-
----
-
-This was a **power-packed Day 4** 💪. Tomorrow I’ll dive into **Linux permissions and process management**!
