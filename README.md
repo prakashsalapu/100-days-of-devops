@@ -20,10 +20,10 @@ The goal of this challenge is to:
 
 | Day | 📖 Topic | 🔗 Link |
 |-----|---------|---------|
-| 🟢 **Day 1** | 🚀 **DevOps Fundamentals** | [View Notes →](./01-Intro-to-DevOps/README.md) |
-| 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./02-Linux-Fundamentals/README.md) |
-| 🟢 **Day 3** | 🐧 **Linux Folder Structure** | [View Notes →](./03-Linux-Folder-Structure/README.md) |
-| 🟢 **Day 4** | 🐧 **User Management** | [View Notes →](./04-User-Management/README.md) |
+| 🟢 **Day 1** | 🚀 **DevOps Fundamentals** | [View Notes →](./01-intro-to-devops/README.md) |
+| 🟢 **Day 2** | 🐧 **Linux Basics** | [View Notes →](./02-linux-essentials/README.md) |
+| 🟢 **Day 3** | 🐧 **Linux Folder Structure** | [View Notes →](./03-linux-folder-structure/README.md) |
+| 🟢 **Day 4** | 🐧 **User Management** | [View Notes →](./04-linux-user-management/README.md) |
 | ⏳ **Day 5** | 📦 **Coming Soon...** | _Stay tuned!_ |
 
 ---
