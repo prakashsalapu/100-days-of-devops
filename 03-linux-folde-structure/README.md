@@ -1,7 +1,4 @@
-# 📅 Day 3 – Linux Folder Structure & Root Access  
-
-## 🔑 What I Learned
-Today, I explored **Linux Folder Structure** in depth.  
+# Linux Folder Structure & Root Access  
 
 ### 🧑‍💻 `sudo su`
 - `sudo` → Run commands with superuser (root) privileges.
