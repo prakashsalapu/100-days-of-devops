@@ -21,6 +21,7 @@ The goal of this challenge is to:
 | Day | 📖 Topic | 🔗 Link |
 |-----|---------|---------|
 | 🟢 **Day 1** | 🚀 **Introduction to DevOps** | [View Notes →](./01-intro-to-devops/README.md) |
+|  |  |  |
 | 🟢 **Day 2** | 🐧 **Linux Fundamentals** | [View Notes →](./02-linux-essentials/README.md) |
 | 🟢 **Day 3** | 🐧 **Linux Folder Structure** | [View Notes →](./03-linux-folder-structure/README.md) |
 | 🟢 **Day 4** | 🐧 **Linux User Management** | [View Notes →](./04-linux-user-management/README.md) |
