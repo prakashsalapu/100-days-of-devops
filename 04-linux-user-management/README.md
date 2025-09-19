@@ -121,6 +121,9 @@ vim file.txt        # Open file in vim
 - `h` → Left | `l` → Right | `j` → Down | `k` → Up
 - `gg` → Start of file | `G` → End of file
 
+📸 **Screenshot:**
+![Practice](./screenshots/01.png)
+![Vim Practice](./screenshots/02.png)
 
 ## 💡 Key Takeaways
 ✅ Hands-on with user management (create, modify, delete users & groups)
