@@ -151,6 +151,64 @@ Now:
 | 1      | --x      | Execute only        |
 | 0      | ---      | No access           |
 
+# 🛡️ Server Hardening & Secure SSH Access
 
+Securing SSH access is one of the most important steps for protecting a Linux server from unauthorized access.
+
+## 🚫 Disable Direct Root SSH Login
+Open the SSH daemon configuration file:
+```bash
+sudo vi /etc/ssh/sshd_config
+```
+Find the line:
+```bash
+#PermitRootLogin yes
+```
+Uncomment and change it to:
+```bash
+PermitRootLogin no
+```
+Save & exit, then restart SSH service:
+```bash
+sudo systemctl restart ssh
+```
+Now, root cannot log in directly over SSH.
+
+## 👤 Create a Sudo User
+Before disabling root login, ensure you have a user with `sudo` privileges:
+```bash
+sudo adduser devopsadmin
+sudo usermod -aG sudo devopsadmin
+```
+Test by logging in:
+```bash
+ssh devopsadmin@<server-ip>
+sudo -i
+```
+
+## 🔑 Enable SSH Key-Based Authentication
+Generate an SSH key pair on your local machine:
+```bash
+ssh-keygen
+```
+Copy public key to server:
+```bash
+ssh-copy-id devopsadmin@<server-ip>
+```
+Now you can log in without entering a password (more secure than passwords).
+
+## 🎯 Restrict SSH to Specific Users
+In `/etc/ssh/sshd_config`, add:
+```bash
+AllowUsers devopsadmin
+```
+This ensures only the specified users can SSH into the server.
+
+## 🎛️ Additional Security Tips
+- **Change Default SSH Port**: In `sshd_config`, set `Port 2222` (or any unused port) to reduce bot attacks.
+- **Disable Password Authentication**: Use only SSH keys for login by setting `PasswordAuthentication no`.
+- **Enable UFW or FirewallD**: Allow only required ports (SSH, HTTP/HTTPS, etc.).
+
+```Securing SSH access ensures attackers can’t brute-force root credentials and provides better logging for user actions. This is a must-have practice for production servers and part of any DevOps hardening checklist.```
 
 Mastering file permissions is crucial for **security & collaboration**. Practice with `chmod`, `chown`, `chgrp`, `umask`, and special permissions to become confident.
