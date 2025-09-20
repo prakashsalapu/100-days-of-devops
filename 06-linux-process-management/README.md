@@ -1,4 +1,4 @@
-# Day 6 – Process Management in Linux
+# Day 6 - Process Management in Linux
 
 ## 📖 Introduction to Process Management
 A **process** is simply a running program. Linux gives us powerful tools to monitor, manage, and control processes. Every process has a unique **PID (Process ID)** and a **PPID (Parent Process ID)**.
