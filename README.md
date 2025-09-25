@@ -1,9 +1,26 @@
-# 🚀 100 Days of DevOps Journey
+
+# 100 Days of DevOps - Roadmap
 
 Welcome to my **100 Days of DevOps** journey!  
-This repository documents everything I learn each day as I work towards becoming a **DevOps Engineer** and mastering industry-relevant skills.
+This repository is the main index of my #100DaysOfDevOps learning journey.  
+I have organized my learning into the following modules:
 
----
+1. [Linux-for-DevOps](https://github.com/prakashsalapu/100-days-of-devops.git)  
+   Learn Linux fundamentals, shell commands, permissions, and networking.
+
+2. [Networking-for-DevOps](https://github.com/yourusername/docker-for-devops)  
+   Master Docker installation, images, containers, volumes, networks, and Compose.
+
+3. [Kubernetes-for-DevOps](https://github.com/yourusername/kubernetes-for-devops)  
+   Understand pods, services, deployments, and scaling.
+
+4. [CI-CD-for-DevOps](https://github.com/yourusername/ci-cd-for-devops)  
+   Explore Jenkins, GitHub Actions, and pipeline automation.
+
+5. [Monitoring-Logging-for-DevOps](https://github.com/yourusername/monitoring-logging-for-devops)  
+   Learn Prometheus, Grafana, ELK Stack, and alerting.
+
+
 
 ## 📌 About This Challenge
 The goal of this challenge is to:
@@ -12,26 +29,6 @@ The goal of this challenge is to:
 - Showcase my **daily progress publicly** for consistency and accountability.
 - Create a **portfolio of practical learnings & mini-projects** that recruiters can see.
 
----
-
-## 📅 Daily Progress
-
-💡 Click on any day to see what I learned!
-
-| Day | 📖 Topic | 🔗 Link |
-|-----|---------|---------|
-| 🟢 **Day 1** | 🚀 **Introduction to DevOps** | [View Notes →](./01-intro-to-devops/README.md) |
-|    |      |     |
-| 🟢 **Day 2** | 🐧 **Linux Fundamentals** | [View Notes →](./02-linux-essentials/README.md) |
-| 🟢 **Day 3** | 🐧 **Linux Folder Structure** | [View Notes →](./03-linux-folder-structure/README.md) |
-| 🟢 **Day 4** | 🐧 **Linux User Management** | [View Notes →](./04-linux-user-management/README.md) |
-| 🟢 **Day 5** | 🐧 **Linux File Permissions** | [View Notes →](./05-linux-file-permissions/README.md) |
-| 🟢 **Day 6** | 🐧 **Linux Process Management** | [View Notes →](./06-linux-process-management/README.md) |
-| 🟢 **Day 7** | 🐧 **Linux Disk Management** | [View Notes →](./07-linux-disk-management/README.md) |
-|    |      |     |
-| ⏳ **Day 8** | 📦 **Coming Soon...** | _Stay tuned!_ |
-
----
 
 ## 🧑‍💻 Connect With Me  
 
