@@ -20,20 +20,8 @@ Here’s the roadmap so far:
 2. **[Networking for DevOps](https://github.com/prakashsalapu/networking-for-devops.git)**  
    - IP configuration, connectivity tests, routing, active connections, bandwidth monitoring, network troubleshooting.
 
-3. **[Shell Scripting for DevOps](https://github.com/yourusername/shell-scripting-for-devops)**  
-   - Bash scripting basics, variables, loops, conditionals, automation of repetitive tasks.
-
-4. **[Git & GitHub for DevOps](https://github.com/yourusername/git-github-for-devops)**  
-   - Version control, branching, merging, pull requests, collaboration best practices.
-
-5. **[CI/CD for DevOps](https://github.com/yourusername/ci-cd-for-devops)**  
-   - Continuous Integration & Continuous Deployment pipelines, Jenkins, GitHub Actions basics.
-
-6. **[Docker for DevOps](https://github.com/yourusername/docker-for-devops)**  
-   - Containers, images, Docker CLI commands, Docker Compose, container management.
-
-7. **More Modules Coming Soon…**  
-   - Kubernetes, Monitoring & Logging (Prometheus, Grafana), Cloud Basics (AWS/GCP), Terraform, Ansible, and more.
+3. **More Modules Coming Soon…**  
+   - Git, Docler, CI/CD, Kubernetes, Monitoring & Logging (Prometheus, Grafana) and more.
 
 
 
@@ -60,6 +48,6 @@ Here’s the roadmap so far:
 If this roadmap helps you:  
 - Give this repo a ⭐  
 - Share it with anyone learning DevOps  
-- Connect with me on [LinkedIn](https://www.linkedin.com/)  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/prakashsalapu/)  
 
 Let’s master DevOps, one day at a time! 💪
