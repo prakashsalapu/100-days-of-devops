@@ -5,9 +5,9 @@ Welcome to my **100 Days of DevOps** journey!
 This repository is the main index of my #100DaysOfDevOps learning journey.  
 I have organized my learning into the following modules:
 
-1. [Linux-for-DevOps](https://github.com/prakashsalapu/linux-for-devops.git)  
+1. <img src="https://img.shields.io/badge/Linux-for-devops-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>(https://github.com/prakashsalapu/linux-for-devops.git)  
    Learn Linux fundamentals, shell commands, permissions, and networking.
-    <img src="https://img.shields.io/badge/Linux-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+      
 
 2. [Networking-for-DevOps](https://github.com/yourusername/docker-for-devops)  
    Master Docker installation, images, containers, volumes, networks, and Compose.
