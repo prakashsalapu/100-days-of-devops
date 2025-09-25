@@ -5,7 +5,7 @@ Welcome to my **100 Days of DevOps** journey!
 This repository is the main index of my #100DaysOfDevOps learning journey.  
 I have organized my learning into the following modules:
 
-1. [Linux-for-DevOps](https://github.com/prakashsalapu/100-days-of-devops.git)  
+1. [Linux-for-DevOps](https://github.com/prakashsalapu/linux-for-devops.git)  
    Learn Linux fundamentals, shell commands, permissions, and networking.
 
 2. [Networking-for-DevOps](https://github.com/yourusername/docker-for-devops)  
