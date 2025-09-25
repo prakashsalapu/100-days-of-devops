@@ -12,7 +12,7 @@ Whether you’re a beginner or looking to organize your DevOps learning path, th
 I’m dividing DevOps learning into **practical modules**, each with its **dedicated repository**.  
 Here’s the roadmap so far:
 
-```bash
+
 
 1. **[Linux for DevOps](https://github.com/prakashsalapu/linux-for-devops.git)**  
    - Linux fundamentals, setup, folder structure, users & groups, file permissions, process management, monitoring, disk management.
@@ -35,7 +35,7 @@ Here’s the roadmap so far:
 7. **More Modules Coming Soon…**  
    - Kubernetes, Monitoring & Logging (Prometheus, Grafana), Cloud Basics (AWS/GCP), Terraform, Ansible, and more.
 
-```
+
 
 ## 🛠 How to Use This Repo
 
